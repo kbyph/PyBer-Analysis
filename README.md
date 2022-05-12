@@ -20,7 +20,7 @@ Datasets that contained both ride and city data were merged into one to calculat
 All three city types are projected onto a multiple line chart that helps visualize the total fares across a four month span.
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/102638461/167984908-e3efd982-dd72-4b63-bfdf-0503a14aad5f.png)
-- During this time period, we can see that urban cities produced the highest fares per month as rates typically peaked around March. However the rates remain consistent between the $1500-$2500 range.
+- During this time period, we can see that urban cities produced the highest fares per month as rates typically peaked around March. Urban city revenue remains consistent between the $1500-$2500 range.
 - Suburban cities generate a consistent average of $1000 thoughout the time period. Rates seem to have increase in January and begin to decline around March possibly until the summer.
 - Rural cities generate a maximum of $500 at its highest due to the lack of drivers and demand for a rideshare service. April seems to be the peak month for profit as most of the revenue remains consistent thoughout the year.
 
