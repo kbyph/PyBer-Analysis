@@ -15,7 +15,7 @@ Ridesharing is the future in transportation services for years to come. Due to t
 Datasets that contained both ride and city data were merged into one to calculate metrics such as total rides, total drivers, total fares, average fare per ride and driver for each of the individual city type.
 
 ![PyBer_summary](https://user-images.githubusercontent.com/102638461/167984903-04c39413-cee5-43b3-b3fd-9d7591390a24.png)
-- From the chart up above, we can see that urban cities contain the most drivers and rides in the area, leading it low price averages and high productions rate. However both smaller cities such as the rural and suburban communities provide less rides as there are less drivers available. Due to small rates, prices remain high until the market is fully saturated enough.
+- From the chart up above, we can see that urban cities contain the most drivers and rides in the area, leading it low price averages and high productions rate. However both smaller cities such as the rural and suburban communities provide less rides as there are less drivers available. Due to small rates, prices remain high until the market grows.
 
 All three city types are projected onto a multiple line chart that helps visualize the total fares across a four month span.
 
