@@ -33,3 +33,4 @@ All three city types are projected onto a multiple line chart that helps visuali
 - Rural cities aren't the most ideal for PyBer to invest in because of its low demand rates. An idea that may help grow the company in these areas would be to provide bonuses and deals for the service. Free rides, discount codes, and memberships for both drivers and riders would significantly revitalize the rural market. 
 
 
+
